@@ -1,8 +1,6 @@
-# CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks https://github.com/CryptoSignal/Crypto-Signal
+# CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks https://github.com/wifidlab/Crypto-Signal
 
 ### Development state: Beta (Code is stable, documentation is often lagging)
-
-### Join our community [Discord](https://discord.gg/MWTJVFf) channel! (2,100+ members)
 
 Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs, & countless generous individuals who wish to democratize the equal & open access to the greatest wealth re-distribution experiment in human and monetary policy history - Bitcoin
 
