@@ -1,4 +1,4 @@
-# CryptoSignal - Quant Trading & Technical Analysis Bot - https://github.com/wifidlab/Crypto-Signal
+# CryptoSignal - Quant Trading & Technical Analysis Bot - https://github.com/cardmap/Crypto-Signal
 
 ### Development state: Beta (Code is stable, documentation is often lagging)
 
